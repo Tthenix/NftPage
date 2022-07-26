@@ -1,0 +1,80 @@
+.fondo{
+    background: linear-gradient(#e66465, #9198e5);
+    padding: 0;
+    margin: 0;
+}
+
+.TextoIMg{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    text-shadow: 2px 2px black;
+}
+
+.TextoIMg2{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    text-shadow: 2px 2px black; 
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 5px;
+}
+.texto{
+    font-size: 20px;
+    margin: 30px;
+    text-align: left;
+}
+
+.titulo2{
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 5px;
+}
+.texto2{
+    font-size: 20px;
+    margin: 30px;
+    text-align: left;
+}
+
+.titulo3{
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 5px;
+}
+.texto3{
+    font-size: 20px;
+    margin: 30px;
+    text-align: left;
+}
+
+.titulo4{
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 5px;
+}
+.texto4{
+    font-size: 20px;
+    margin: 30px;
+    text-align: left;
+}
+
+.titulo5{
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 5px;
+}
+.texto5{
+    font-size: 20px;
+    margin: 30px;
+    text-align: left;
+}
